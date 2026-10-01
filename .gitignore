@@ -1,0 +1,6 @@
+work/
+node_modules/
+.tmp/
+~$*.pptx
+.DS_Store
+Thumbs.db
