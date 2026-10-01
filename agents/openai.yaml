@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lev Presentations"
+  short_description: "Calm, clear, nature-led presentation design."
+  default_prompt: "Use $lev-presentations to create a clear presentation in my visual style."
